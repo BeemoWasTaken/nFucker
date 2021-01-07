@@ -1,0 +1,14 @@
+Wellcome to nFucker!
+Current verision: 1.0
+
+To install just change the file premisions to executeable by doing:
+$ chmod +x nFucker.sh
+
+To install the requirements just do:
+$ chmod +x installRequirements.sh
+and write: 1
+and now everything should be installing!
+
+To start nFucker just do:
+$ sudo ./nFucker.sh [networkCardName]
+also makesure that you are in the nFucker directory!
